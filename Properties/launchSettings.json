@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NomDuProjetBdProg (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "NomDuProjetBdProg (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
